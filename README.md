@@ -16,21 +16,24 @@ This comic site allows users to browse and read comics, create user accounts to 
 
 ## Features
 
-* User registration and login with firebase
-* Search movie, people
-* Favorite and bookmark with movie
+* User registration and login
+* Comic browsing and searching
+* Comic reader with pagination and bookmarking
+* User favorites and reading history
+* User comments and ratings
 
 ## Technologies Used
 
-* Frontend: Angular, Tailwind CSS
-* API: [https://www.themoviedb.org/](https://www.themoviedb.org/)
-  
+* Frontend: React, Zustand, Tailwind CSS, Ant design
+* Backend: Node.js, Express, MongoDB
+* Authentication: Passport.js, JWT
+* API: [https://docs.otruyenapi.com/](https://docs.otruyenapi.com/)
+
 ## Demo
 
-[https://angular-themoviedb-site.vercel.app/home](https://angular-themoviedb-site.vercel.app/home)
+[https://mern-comic-site-client.onrender.com](https://mern-comic-site-client.onrender.com)
 
 ## Images
 
-![screencapture-localhost-4200-home-2025-06-20-08_26_17](https://github.com/user-attachments/assets/d58ef4eb-9247-4da9-b4be-ce3b93686b2e)
-
+![mern-movie-comic-site](https://github.com/user-attachments/assets/fe5d9d74-c58c-4a09-8875-3e9237ac4d61)
 
